@@ -1,4 +1,4 @@
-[EMPRESA]
+[EMPRESA][testando]
 
 [BD]
 HOST = "mysql02.divinopolisplacas.hospedagemdesites.ws"

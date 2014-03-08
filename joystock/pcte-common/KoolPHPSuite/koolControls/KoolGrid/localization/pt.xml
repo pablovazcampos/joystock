@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<localization xmlns="koolgrid:localization-schema">
+	<commands 
+		Insert			= "Adicionar novo Registro"
+		Delete 			= "Deletar"
+		Edit 			= "Editar"
+		Cancel 			= "Cancelar"
+		Confirm  		= "Confirmar"
+		Refresh			= "Atualizar"
+		Done			= "Done"
+		Loading			= "Carregando..."
+		Go				= "Ir"
+		Prev			= "Anterior"
+		Next			= "Próximo"
+		No_Filter		= "[Sem Filtro]"
+		Equal			= "Igual"
+		Not_Equal		= "Diferente"
+		Greater_Than	= "Maior que"
+		Less_Than		= "Menor que"
+		Greater_Than_Or_Equal	= "Maior ou igual"
+		Less_Than_Or_Equal		= "Menor ou igual"
+		Contain			= "Contém"
+		Not_Contain		= "Não contém"
+		Start_With		= "Inicía com"
+		End_With		= "Termina com"
+				
+	/>
+	<messages 
+		DeleteConfirm		= "Tem certeza que deseja excluir este registro?"
+		PageInfoTemplate	= "Exibindo página {PageIndex} de {TotalPages}, ítens {FirstIndexInPage} à {LastIndexInPage} de {TotalRows}."
+		ManualPagerTemplate = "Alterando página: {TextBox} (of {TotalPage} pages) {GoPageButton}"
+		PageSizeText 		= "Registros por página:"
+		PrevPageToolTip		= "Página anterior"
+		NextPageToolTip		= "Próxima Página"
+		SortHeaderToolTip	= "Click here to sort"
+		SortAscToolTip		= "Sort Asc"
+		SortDescToolTip		= "Sort Desc"
+		SortNoneToolTip		= "No sort"
+		InsertForm_ConfirmButtonToolTip			=	"Confirm Insert"
+		InsertForm_CancelButtonToolTip			=	"Cancel Insert"
+		EditForm_ConfirmButtonToolTip			=	"Confirm Changes"
+		EditForm_CancelButtonToolTip			=	"Cancel Changes"
+		RequiredFieldValidator_ErrorMessage 	= 	"Field is required!"
+		RegularExpressionValidator_ErrorMessage = 	"Not valid!"
+		RangeValidator_ErrorMessage 			= 	"Value must be in range ({MinValue},{MaxValue})"
+		GroupPanelGuideText 					= "Drag a column header and drop it here to group by that column"
+		GroupItemToolTip 						= "Drag out of the bar to ungroup"
+
+	/>	
+</localization>

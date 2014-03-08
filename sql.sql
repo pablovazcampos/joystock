@@ -1,5 +1,5 @@
 ﻿
-SET FOREIGN_KEY_CHECKS=0;
+SETyyyyyy FOREIGN_KEY_CHECKS=0;
 
 USE `divinopolispla1`;
 
